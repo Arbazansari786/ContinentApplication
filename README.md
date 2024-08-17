@@ -6,7 +6,7 @@ Submission:-
 Spring REST
 Spring Data JPA: For database interaction.
 Lombok: To reduce boilerplate code for POJOs.
-SQL Database: for development and testing.
+MYSQL Database: for development and testing.
 Maven: Dependency management and build tool.
 
 API EndPoints
